@@ -1,0 +1,7 @@
+﻿  OpenGL Part.cpp
+C:\Users\jesus\source\repos\PA2 Draft Polygon Filler\PA2 Draft Polygon Filler\OpenGL Part.cpp(71,58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jesus\source\repos\PA2 Draft Polygon Filler\PA2 Draft Polygon Filler\OpenGL Part.cpp(72,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jesus\source\repos\PA2 Draft Polygon Filler\PA2 Draft Polygon Filler\OpenGL Part.cpp(102,58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jesus\source\repos\PA2 Draft Polygon Filler\PA2 Draft Polygon Filler\OpenGL Part.cpp(103,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  PA2 Draft Polygon Filler.vcxproj -> C:\Users\jesus\source\repos\PA2 Draft Polygon Filler\x64\Debug\PA2 Draft Polygon Filler.exe
+          1 file(s) copied.
